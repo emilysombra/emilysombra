@@ -23,6 +23,12 @@
 <a href="https://github.com/dudubernardino/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&layout=compact&theme=radical" />
 </a>
+
+<h3> &nbsp;Contact me </h3>
+
+[![Linkedin: Marcos Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-sombra/)](https://www.linkedin.com/in/marcos-sombra/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.sombraaa@gmail.com)](mailto:marcos.sombraaa@gmail.com)
+[![GitHub Marcos Sombra](https://img.shields.io/github/followers/mvsombra?label=follow&style=social)](https://github.com/mvsombra/)
 <!--
 **mvsombra/mvsombra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
