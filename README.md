@@ -20,7 +20,7 @@
 <a href="https://github.com/mvsombra/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvsombra&theme=radical" alt="mvsombra github stats"/>
 </a>
-<a href="https://github.com/dudubernardino/">
+<a href="https://github.com/mvsombra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&layout=compact&theme=radical" />
 </a>
 
