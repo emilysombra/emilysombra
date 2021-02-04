@@ -18,10 +18,10 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 <a href="https://github.com/mvsombra/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvsombra&theme=radical" alt="mvsombra github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvsombra&theme=radical&count_private=true" alt="mvsombra github stats"/>
 </a>
 <a href="https://github.com/mvsombra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&layout=compact&theme=radical&count_private=true" />
 </a>
 
 <h3> &nbsp;Contact me </h3>
