@@ -21,7 +21,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvsombra&theme=radical&count_private=true" alt="mvsombra github stats"/>
 </a>
 <a href="https://github.com/mvsombra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&layout=compact&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&theme=radical&langs_count=5" />
 </a>
 
 <h3> &nbsp;Contact me </h3>
