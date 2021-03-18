@@ -1,7 +1,7 @@
 ### Hi there, I'm Marcos Vinicius Sombra 👋
 #### Back-end Developer, Researcher and Entrepreneur 
 
-- 🔭 Back-end developer at Blockchain One
+- 🔭 Junior developer at Morphus Security
 - 🎓 Undergraduate Computer Science Student at Universidade Estadual do Ceará
 
 <h3>&nbsp;Main languages and tools </h3>
