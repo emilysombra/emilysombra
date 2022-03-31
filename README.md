@@ -13,13 +13,6 @@
 ![React](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-<a href="https://github.com/mvsombra/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvsombra&theme=radical&count_private=true" alt="mvsombra github stats"/>
-</a>
-<a href="https://github.com/mvsombra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsombra&hide=html&theme=radical&langs_count=5" />
-</a>
-
 <h3> &nbsp;Contact me </h3>
 
 [![Linkedin: Marcos Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-sombra/)](https://www.linkedin.com/in/marcos-sombra/)
