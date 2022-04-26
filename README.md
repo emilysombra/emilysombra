@@ -17,8 +17,8 @@
 
 [![Linkedin: Marcos Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-sombra/)](https://www.linkedin.com/in/marcos-sombra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.sombraaa@gmail.com)](mailto:marcos.sombraaa@gmail.com)
-[![GitHub Sombra](https://img.shields.io/github/followers/emmevsombra?label=follow&style=social)](https://github.com/mvsombra/)
-[![Twitter Sombra](https://img.shields.io/twitter/follow/mv_sombra)](https://twitter.com/mv_sombra)
+[![GitHub Sombra](https://img.shields.io/github/followers/emmevsombra?label=follow&style=social)](https://github.com/emmevsombra/)
+[![Twitter Sombra](https://img.shields.io/twitter/follow/emmevsombra)](https://twitter.com/emmevsombra)
 <!--
 **mvsombra/mvsombra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
