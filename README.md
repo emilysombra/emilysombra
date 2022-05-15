@@ -1,4 +1,4 @@
-### Hi there, I'm Sombra 👋
+### Hi there, I'm Emily Sombra 👋
 
 - 😄 Pronouns: She/Her
 - 🔭 Junior developer at Morphus Security
