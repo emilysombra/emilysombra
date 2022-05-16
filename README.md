@@ -15,7 +15,7 @@
 
 <h3> &nbsp;Contact me </h3>
 
-[![Linkedin: Marcos Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-sombra/)](https://www.linkedin.com/in/marcos-sombra/)
+[![Linkedin: Emily Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emily-sombra/)](https://www.linkedin.com/in/emily-sombra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmevsombra@gmail.com)](mailto:emmevsombra@gmail.com)
 [![GitHub Sombra](https://img.shields.io/github/followers/emmevsombra?label=follow&style=social)](https://github.com/emmevsombra/)
 [![Twitter Sombra](https://img.shields.io/twitter/follow/emmevsombra)](https://twitter.com/emmevsombra)
