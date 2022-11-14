@@ -1,8 +1,9 @@
-### Hi there, I'm Emily Sombra 👋
+<h1>Hi, I'm Emily Sombra 👋</h1>
 
 - 😄 Pronouns: She/Her
-- 🔭 Junior developer at Morphus Security
+- 🔭 Associate Software Engineer at Nubank
 - 🎓 Undergraduate Computer Science Student at Universidade Estadual do Ceará
+- 📫 How to reach me:
 
 <h3>&nbsp;Main languages and tools </h3>
 
@@ -15,10 +16,13 @@
 
 <h3> &nbsp;Contact me </h3>
 
-[![Linkedin: Emily Sombra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emily-sombra/)](https://www.linkedin.com/in/emily-sombra/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmevsombra@gmail.com)](mailto:emmevsombra@gmail.com)
-[![GitHub Sombra](https://img.shields.io/github/followers/emmevsombra?label=follow&style=social)](https://github.com/emmevsombra/)
-[![Twitter Sombra](https://img.shields.io/twitter/follow/emmevsombra)](https://twitter.com/emmevsombra)
+<p align="center">
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/emily-sombra">
+		    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+        </a>
+    </div>
+</p>
 <!--
 **mvsombra/mvsombra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
