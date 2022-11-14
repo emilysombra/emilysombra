@@ -16,15 +16,14 @@
 
 <h3> &nbsp;Contact me </h3>
 
-<p align="center">
-    <div align="center"  class="icons-social" style="margin-left: 10px;">
+<p>
+    <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/emily-sombra">
 		    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
         </a>
     </div>
 </p>
 <!--
-**mvsombra/mvsombra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
