@@ -3,7 +3,6 @@
 - 😄 Pronouns: She/Her
 - 🔭 Associate Software Engineer at Nubank
 - 🎓 Undergraduate Computer Science Student at Universidade Estadual do Ceará
-- 📫 How to reach me:
 
 <h3>&nbsp;Main languages and tools </h3>
 
