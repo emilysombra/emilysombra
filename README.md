@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emily Sombra 👋</h1>
 
 - 😄 Pronouns: She/Her
-- 🔭 Associate Software Engineer at Nubank
+- 🔭 Software Engineer at Nubank
 - 🎓 Undergraduate Computer Science Student at Universidade Estadual do Ceará
 
 <h3> &nbsp;Contact me </h3>
