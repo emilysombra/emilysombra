@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: She/Her
 - 🔭 Software Engineer at Nubank
-- 🎓 Undergraduate Computer Science Student at Universidade Estadual do Ceará
+- 🎓 Computer Scientist at Universidade Estadual do Ceará
 
 <h3> &nbsp;Contact me </h3>
 
